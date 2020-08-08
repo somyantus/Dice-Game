@@ -1,0 +1,26 @@
+body{
+    background-color: #013243;
+    text-align: center;
+}
+h1{
+    font-size: 5rem;
+    text-shadow: 4px 0 #2c3e50;
+   font-family: 'Abril Fatface', cursive;
+    color:#00b5cc;
+}
+p{
+    color:white;
+    font-size: 2rem; 
+}
+.dice{
+    margin: 30px;
+    height: 150px;
+}
+.container{
+    width:70%;
+    margin: auto;
+}
+.div-width{
+    display: inline-block;
+    text-align: center;
+}
